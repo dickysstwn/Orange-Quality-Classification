@@ -1,1 +1,1 @@
-# Orange-Quality-Classification
+# Orange Quality Classification
